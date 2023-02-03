@@ -41,7 +41,7 @@ Nabil
 4. Basket page - Display the list of chosen items before payment
 5. Payment page - Once items are confirmed, user can choose to pay
 
-## Below are the flow of the program:-
+## Flow of the program
 1. User needs to enter user detail in the login page.
 2. User will be brought to home page that displays a food list with it's name and price.
 3. When the user selects a food item, user will be prompt the quantity of the food.
