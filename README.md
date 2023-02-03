@@ -62,7 +62,7 @@ Nabil
 
 Flutter Documentation. (n.d.). Flutter. Retrieved January, 2023, from https://docs.flutter.dev/
 
-Nelson, K. (20122, May 25). What Are Online Food Ordering Systems and How Do They Work?. Light Speed. https://www.lightspeedhq.com.au/blog/what-are-online-food-ordering-systems-and-how-do-they-work/
+Nelson, K. (2012, May 25). What Are Online Food Ordering Systems and How Do They Work?. Light Speed. https://www.lightspeedhq.com.au/blog/what-are-online-food-ordering-systems-and-how-do-they-work/
 
 Patterson, R. (2019, November 27). How to Do Research in 7 Simple Steps. College Info Geek. https://collegeinfogeek.com/how-to-do-research/
 
