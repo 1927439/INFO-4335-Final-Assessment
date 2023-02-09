@@ -50,13 +50,8 @@ Nabil
 6. The food will be prepared after the user submit the order.
 
 ## Sequence diagram
-![image](https://user-images.githubusercontent.com/117919908/216540262-c9dc053d-f654-4963-ab6d-b5c6013266f3.png)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/117919908/217752670-c922c140-36a8-48c4-9288-ba9dc23e233b.png)
 
-![image](https://user-images.githubusercontent.com/117919908/216540348-d81f784d-de88-40a2-98da-f0c133ec66e4.png)
-
-![image](https://user-images.githubusercontent.com/117919908/216540434-99113a60-fe9a-4552-a1a4-7d6ecc3ebee8.png)
-
-![image](https://user-images.githubusercontent.com/117919908/216540505-2ef7f0cd-0e20-4ebe-85d0-df8c10df59ea.png)
 
 ## References
 
